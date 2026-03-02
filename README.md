@@ -33,3 +33,5 @@ An advanced AI-based real-time face recognition system with:
    python encoding.py
 
 Press 'q' to quit.
+
+kishor
