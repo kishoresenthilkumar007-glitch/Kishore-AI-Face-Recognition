@@ -34,4 +34,3 @@ An advanced AI-based real-time face recognition system with:
 
 Press 'q' to quit.
 
-kishor
